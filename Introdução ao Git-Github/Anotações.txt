@@ -1,0 +1,4 @@
+O que é o Git? Git é o sistema de controle de versão open source mais usado no mundo atualmente!
+Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software.
+
+O que é o Github? GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.

@@ -1,0 +1,2 @@
+Neste móduo aprendemos o que são estruturas de dados em um sistema, qual a importância dela e como trabalhar
+com o armazenamento dessas infromações de forma ágil e otimizada.

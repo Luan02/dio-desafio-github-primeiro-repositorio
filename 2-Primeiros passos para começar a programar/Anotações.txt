@@ -1,0 +1,2 @@
+Neste módulo tivemos a visão geral evolutiva da computação, etendendo os conceitos básicos e assim ficando pronto para compreender
+como o computador executa as instruções desenvolvidas pelos profissionais da programção.

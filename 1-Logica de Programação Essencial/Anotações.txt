@@ -1,0 +1,2 @@
+Logica de Programação é a forma como o desenvolvedor entende a cominucação a fim de programar uma função de um programa.
+Faz uso de algoritimos que são sequências de passos bem estabelecidos.
